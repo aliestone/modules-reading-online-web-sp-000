@@ -5,4 +5,4 @@ require_relative'./fancy_dance.rb'
 module FancyDance
   module InstanceMethods
 
-  end
+end
